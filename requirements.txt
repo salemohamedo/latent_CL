@@ -16,6 +16,7 @@ torchnet
 dataclasses-json
 git+https://github.com/Continvvm/continuum.git
 git+https://github.com/openai/CLIP.git
+git+https://github.com/salemohamedo/aws-cv-task2vec.git
 #then install"
 #pip install --force-reinstall https://github.com/Lucasc-99/continuum.git --no-deps
 #pip install git+https://github.com/openai/CLIP.git
